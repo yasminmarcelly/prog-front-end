@@ -11,7 +11,7 @@ const experiences = [
     ],
   },
   {
-    company: "Jornal do Commercio",
+    company: "SJCC - Sistema Jornal do Commercio",
     role: "Jovem Aprendiz - Administrativo",
     period: "Dez 2022 – Maio 2024",
     icon: "/img/sjcc.jpg",

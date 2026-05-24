@@ -10,7 +10,7 @@ export default function Hero() {
 
           <div>
             <h1 className="text-4xl font-calistoga text-black mb-3">
-              oi, eu sou Yasmin. 👋
+              oi, yasmin aqui. 👋
             </h1>
             <p className="text-gray-600 text-sm leading-relaxed mb-2">
               estudante de sistemas para internet 
