@@ -20,7 +20,6 @@ export default function NavBar() {
           ./portfolio/
         </a>
 
-        {/* Desktop links */}
         <ul className="hidden md:flex gap-6">
           {links.map((link) => (
             <li key={link.label}>

@@ -29,7 +29,6 @@ export default function Projects() {
                 {project.description}
               </p>
 
-              {/* Tags */}
               <div className="flex flex-wrap gap-2 mb-3">
                 {project.tags.map((tag) => (
                   <span key={tag} className="text-xs text-gray-500 bg-gray-100 px-2 py-1 rounded">
@@ -38,7 +37,6 @@ export default function Projects() {
                 ))}
               </div>
 
-              {/* Links */}
               <div className="flex gap-4">
                 <a href={project.githubUrl} className="text-xs text-gray-500 hover:text-black underline">
                   GitHub

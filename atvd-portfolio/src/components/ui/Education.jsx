@@ -59,7 +59,6 @@ export default function Education() {
                 </p>
               </div>
 
-              {/* Bullets */}
               <ul className="flex flex-col gap-1 mt-3 ml-16">
                 {item.bullets.map((b, i) => (
                   <li
