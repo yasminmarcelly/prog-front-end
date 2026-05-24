@@ -10,10 +10,7 @@ export default function AboutMe() {
 
         <div className="flex flex-col gap-4 text-sm text-gray-600 leading-relaxed mb-10">
           <p>
-           Olá, me chamo Yasmin e tenho interesse por tecnologia desde criança, principalmente hardware e computadores.
-          </p>
-          <p>
-           Meu primeiro contato com programação aconteceu na faculdade e durante esse período descobri que curto mais backend do que frontend 😅.
+           Me chamo Yasmin, tenho 23 anos e sou de Recife, Pernambuco. Tenho experiência em suporte técnico N1 através de estágio e também em desenvolvimento de software por meio de projetos acadêmicos. Atualmente, tenho maior interesse na área de backend, principalmente com Java.
           </p>
           <p>
             Nas horas vagas: cinema, Liverpool e dormir (in that order).

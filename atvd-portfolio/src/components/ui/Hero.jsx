@@ -13,14 +13,14 @@ export default function Hero() {
               oi, eu sou Yasmin. 👋
             </h1>
             <p className="text-gray-600 text-sm leading-relaxed mb-2">
-              estudante de sistemas para internet, pernambuco 🇧🇷
+              estudante de sistemas para internet 
             </p>
             <p className="text-gray-600 text-sm leading-relaxed mb-6">
-              experiência em suporte técnico e desenvolvimento de software.
+              pt-br / eng-us
             </p>
 
             <div className="flex gap-4 flex-wrap">
-              <a href="/YasminCV.pdf" className="text-sm text-black underline hover:text-gray-500">
+              <a href="/YasminCV.pdf" className="text-sm text-gray-500 hover:text-black">
                 Currículo
               </a>
               <a href="https://linkedin.com/in/yasminmarcelly" className="text-sm text-gray-500 hover:text-black">
